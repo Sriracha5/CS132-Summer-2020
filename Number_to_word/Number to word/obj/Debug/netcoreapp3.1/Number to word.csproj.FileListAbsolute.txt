@@ -1,0 +1,4 @@
+E:\CS132\CS132-Summer-2020\Number_to_word\Number to word\obj\Debug\netcoreapp3.1\Number to word.csprojAssemblyReference.cache
+E:\CS132\CS132-Summer-2020\Number_to_word\Number to word\obj\Debug\netcoreapp3.1\Number to word.AssemblyInfoInputs.cache
+E:\CS132\CS132-Summer-2020\Number_to_word\Number to word\obj\Debug\netcoreapp3.1\Number to word.AssemblyInfo.cs
+E:\CS132\CS132-Summer-2020\Number_to_word\Number to word\obj\Debug\netcoreapp3.1\Number to word.csproj.CoreCompileInputs.cache
