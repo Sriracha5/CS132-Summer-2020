@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Module5",
-    "\\Module5\\Conditional-Statements"
+    "\\Increment-Decrement\\obj\\Debug",
+    "\\Increment-Decrement\\obj\\Release",
+    "\\Module3",
+    "\\Module8\\Class_Object"
   ],
-  "SelectedNode": "\\Module5\\Conditional-Statements\\Conditional-Statements.sln",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\Module4",
+  "PreviewInSolutionExplorer": true
 }
